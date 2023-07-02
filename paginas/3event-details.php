@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sistema de Cadastro de Eventos - Detalhes do Evento</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Sistema de Cadastro de Eventos - Detalhes do Evento</h1>
+  <div id="event-details">
+  
+    <h2>Título do Evento</h2>
+    <p>Descrição do Evento</p>
+    <p>Data: 01/01/2023</p>
+    <p>Local: Local do Evento</p>
+    <p>Categoria: Categoria do Evento</p>
+    <button id="registration-button">Inscrever-se</button>
+  </div>
+
+  <script src="3event-details.js"></script>
+</body>
+</html>
